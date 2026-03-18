@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-Embedded-FF69B4?style=for-the-badge&logo=c&logoColor=white" alt="Embedded">
-  <img src="https://img.shields.io/badge/-AI-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/-FPGA-FF69B4?style=for-the-badge&logo=verilog&logoColor=white" alt="FPGA">
+  <img src="https://img.shields.io/badge/-Embedded-FFC0CB?style=for-the-badge&logo=c&logoColor=white" alt="Embedded">
+  <img src="https://img.shields.io/badge/-AI-FFC0CB?style=for-the-badge&logo=python&logoColor=white" alt="AI">
+  <img src="https://img.shields.io/badge/-FPGA-FFC0CB?style=for-the-badge&logo=verilog&logoColor=white" alt="FPGA">
 </p>
 
 # 🌸 이영은 (Youngeun Lee)  
@@ -15,7 +15,7 @@
 
 ## 🛠 **Skills**
 - **Languages:** C/C++, Python, Verilog  
-- **Tools:** Vivado, VSCode, Git, Raspberry Pi, ESP32, Xilinx Zynq
+- **Tools:** Vivado, VSCode, Visual Studio, OrCAD/PSPICE/LTSPICE, Git, Raspberry Pi, ESP32, Xilinx Zynq
 - **Interests:** AI, Embedded Systems, FPGA, IoT
 
 ---
