@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/-Embedded-FF69B4?style=for-the-badge&logo=c&logoColor=white" alt="Embedded">
+  <img src="https://img.shields.io/badge/-AI-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="AI">
+  <img src="https://img.shields.io/badge/-FPGA-FF69B4?style=for-the-badge&logo=verilog&logoColor=white" alt="FPGA">
+</p>
 
-<!--
-**olorlo/olorlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌸 이영은 (Youngeun Lee)  
 
-Here are some ideas to get you started:
+🎓 Electronics Engineering, Kyungpook National University (2022) | SSAFY 15th  
+💻 Embedded Systems & AI | SoC & FPGA | IoT    
+📍 Seoul, Korea  
+📫 Email: yongeuni22@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 **Skills**
+- **Languages:** C/C++, Python, Verilog  
+- **Tools:** Vivado, VSCode, Git, Raspberry Pi, ESP32, Xilinx Zynq
+- **Interests:** AI, Embedded Systems, FPGA, IoT
+
+---
+
+## 🚀 **Projects**
+- **Smart Plant Monitor** | IoT + AI (Raspberry Pi & ESP32)  
+- **FPGA Color Game** | TFT LCD + AXI SoC (Xilinx Zynq)   
+
