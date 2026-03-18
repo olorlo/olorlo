@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-FPGA-FFC0CB?style=for-the-badge&logo=verilog&logoColor=white" alt="FPGA">
 </p>
 
-# 🌸 이영은 (Youngeun Lee)  
+# ⭐️ 이영은 (Youngeun Lee)  
 
 🎓 Electronics Engineering, Kyungpook National University (2022) | SSAFY 15th  
 💻 Embedded Systems & AI | SoC & FPGA | IoT    
