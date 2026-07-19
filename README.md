@@ -1,16 +1,9 @@
 
-# 이영은 (Youngeun Lee)  
+### 이영은 (Youngeun Lee)  
 
 🎓 Electronics Engineering, Kyungpook National University (2022) | SSAFY 15th  
-💻 Embedded Systems | SoC & FPGA | IoT    
-📍 Seoul, Korea  
+💻 Embedded Systems | SoC & FPGA | AIoT    
+📍 Seoul, South Korea  
 📫 Email: yongeuni22@gmail.com  
-
----
-
-## 🛠 **Skills**
-- **Languages:** C/C++, Python, Verilog
-- **Tools:** Vivado, VSCode, Visual Studio, OrCAD/PSPICE/LTSPICE, Git, Raspberry Pi, ESP32, Xilinx Zynq
-- **Interests:** Embedded Systems, FPGA, AIoT
 
 ---
